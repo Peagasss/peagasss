@@ -12,7 +12,7 @@ Além do desenvolvimento tradicional, também utilizo **IA, Low-Code e Vibe Codi
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * 🐍 **Python** como principal linguagem
 * 💻 Desenvolvimento **Backend e Full Stack**
@@ -145,7 +145,7 @@ Essa interseção é também onde concentro parte dos meus projetos autorais e e
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### BioBaaS
 
@@ -194,7 +194,7 @@ As implementações publicadas são identificadas como **estudos independentes b
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **Ciências Biológicas — UNIVASF**
 Em andamento
@@ -206,26 +206,9 @@ Curso profissional com **+500 horas de formação**
 
 ## 🌎 Idiomas
 
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Avançado (C1)
-🇪🇸 Espanhol — Intermediário
-
----
-
-## 📊 GitHub
-
-<p align="left">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
-
-</p>
+Português — Nativo
+Inglês — Avançado (C1)
+Espanhol — Intermediário
 
 ---
 
