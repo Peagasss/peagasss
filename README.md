@@ -151,7 +151,7 @@ Essa interseção é também onde concentro parte dos meus projetos autorais e e
 
 Plataforma voltada ao contexto de **laboratórios e pesquisa em Ciências da Vida**, desenvolvida explorando a integração entre software, dados e inteligência artificial.
 
-> Projeto em desenvolvimento.
+> Projeto autoral em desenvolvimento.
 
 ### ReferencIA
 
@@ -163,7 +163,6 @@ Plataforma para auxiliar estudantes e pesquisadores na **localização, organiza
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `pgvector` `Redis` `Docker`
 
-> Projeto autoral em desenvolvimento.
 
 ### Analikt
 
@@ -196,18 +195,18 @@ As implementações publicadas são identificadas como **estudos independentes b
 
 ## Formação
 
-**Ciências Biológicas — UNIVASF**
-Em andamento
+**Ciências Biológicas — UNIVASF** *(2023 - Em andamento)*
 
-**Análise de Dados — Alura**
-Curso profissional com **+500 horas de formação**
+**Análise de Dados — Alura** (Mar. de 2026 - Jun. de 2026, **+500 horas de formação**)
 
 ---
 
 ## 🌎 Idiomas
 
 Português — Nativo
+
 Inglês — Avançado (C1)
+
 Espanhol — Intermediário
 
 ---
